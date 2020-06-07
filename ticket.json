@@ -1,0 +1,8 @@
+{
+  "categoryID": "717465108032389170",
+  "supportRoleID": "541917988744462336",
+  "DMOpenTicket": "**Bonjour, votre ticket a bien été crée, merci de bien expliquer votre commande afin que nos vendeurs puisse executer celle-ci :wink:**",
+  "channelLogID": "717676971764613200",
+  "finishMessage": "__Bonjour, nous vous informons que votre commande est a présent achevé, merci d'executer la commande `close` pour fermer le ticket__",
+  "DMCloseTicket": "**Bonjour, nous vous remercions d'avoir fait appel a nos services, n'hésitez pas a laisser un avis dans le channel `avis des clients`, nous espérons vous revoir.**"
+}
